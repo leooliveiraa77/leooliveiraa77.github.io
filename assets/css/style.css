@@ -14,3 +14,13 @@ html {
   background-size: cover;
   height: 100%;
 }
+
+.profile-img {
+  object-fit: cover;
+  height: 100% !important;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card-bg-transp {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+}
